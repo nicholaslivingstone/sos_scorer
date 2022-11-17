@@ -1,1 +1,0 @@
-Contains some files of previous attempts at storing the stack. These don't serve any purpose other than keeping some history. 
