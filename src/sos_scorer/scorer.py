@@ -143,7 +143,7 @@ class Scorer():
             "criminals" : "white"
         }
 
-        table = Table(title="Skulls of Sedec", show_footer=True, )
+        table = Table(title="Skulls of Sedlec", show_footer=True, )
 
         table.add_column("Skull", footer='Total')
         table.add_column("Score", footer=str(self._score))
